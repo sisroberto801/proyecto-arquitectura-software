@@ -38,9 +38,9 @@ proyecto-arquitectura-software/
 ---
 
 ## 🔗 Enlaces Rápidos
-- [📌 Issues](https://github.com/[usuario]/proyecto-arquitectura-api/issues)
-- [🌿 Ramas](https://github.com/[usuario]/proyecto-arquitectura-api/branches)
-- [🔄 Pull Requests](https://github.com/[usuario]/proyecto-arquitectura-api/pulls)
+- [📌 Issues](https://github.com/sisroberto801/proyecto-arquitectura-software/issues)
+- [🌿 Ramas](https://github.com/sisroberto801/proyecto-arquitectura-software/branches)
+- [🔄 Pull Requests](https://github.com/sisroberto801/proyecto-arquitectura-software/pulls)
 - [📁 Documentación REST](./docs/rest-api/)
 - [📁 Documentación GraphQL](./docs/graphql/)
 - [📁 Documentación Arquitectura](./docs/arquitectura/)
