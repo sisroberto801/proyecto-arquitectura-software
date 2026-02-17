@@ -26,6 +26,3 @@ proyecto-arquitectura-software/
 - REST API
 - GraphQL
 - Markdown para documentación
-
-## Estado del Proyecto
-✅ Completado
