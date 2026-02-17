@@ -7,16 +7,16 @@ Repositorio para la documentación técnica de un sistema híbrido que combina R
 - [Roberto Carlos Olguin Ledezma]
 
 ## Estructura del Proyecto
-/docs
-/rest-api
-- endpoints.md
-- modelos.md
-/graphql
-- schema.md
-- resolvers.md
-/arquitectura
-- diagrama.md
-- decisiones.md
+📁 docs/
+├── 📁 rest-api/
+│   ├── 📄 endpoints.md
+│   └── 📄 modelos.md
+├── 📁 graphql/
+│   ├── 📄 schema.md
+│   └── 📄 resolvers.md
+└── 📁 arquitectura/
+    ├── 📄 diagrama.md
+    └── 📄 decisiones.md
 
 ## Tecnologías
 - REST API
