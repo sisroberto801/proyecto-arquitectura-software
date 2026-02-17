@@ -8,16 +8,18 @@ Repositorio para la documentación técnica de un sistema híbrido que combina R
 
 ## Estructura del Proyecto
 ```
-📁 docs/
-├── 📁 rest-api/
-│   ├── 📄 endpoints.md
-│   └── 📄 modelos.md
-├── 📁 graphql/
-│   ├── 📄 schema.md
-│   └── 📄 resolvers.md
-└── 📁 arquitectura/
-    ├── 📄 diagrama.md
-    └── 📄 decisiones.md
+proyecto-arquitectura-software/
+├── README.md
+└── docs/
+    ├── rest-api/
+    │   ├── endpoints.md
+    │   └── modelos.md
+    ├── graphql/
+    │   ├── schema.md
+    │   └── resolvers.md
+    └── arquitectura/
+        ├── diagrama.md
+        └── decisiones.md
 ```
 
 ## Tecnologías
